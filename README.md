@@ -15,9 +15,9 @@ This repository contains the MATLAB computer vision files that I wrote in order 
 Design:
 A 3 D.O.F design was chosen, with 2 revolute joints, 1 prismatic and an electromagnet end effector. The inverse kinematics can be calculated geometrically:
 
-![image](https://user-images.githubusercontent.com/60051148/124351586-e7637680-dc03-11eb-90eb-d33c7d963238.png)
-
 ![image](https://user-images.githubusercontent.com/60051148/124351591-edf1ee00-dc03-11eb-9abe-d15c69aeea0e.png)
+
+![image](https://user-images.githubusercontent.com/60051148/124351586-e7637680-dc03-11eb-90eb-d33c7d963238.png)
 
 The manipulator comprises of 6 joints, 1 prismatic joint between b and d and 5 revolute joints.
 
