@@ -1,1 +1,1 @@
-# chess_robot
+# chess_playing_robot
