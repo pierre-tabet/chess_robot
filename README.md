@@ -21,3 +21,4 @@ A 3 D.O.F design was chosen, with 2 revolute joints, 1 prismatic and an electrom
 
 The manipulator comprises of 6 joints, 1 prismatic joint between b and d and 5 revolute joints.
 
+Find out more: https://pierretabet.com/helping-hand
