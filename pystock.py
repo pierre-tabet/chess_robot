@@ -2,7 +2,6 @@
 """
 Created on Sun Jun  7 16:19:43 2020
 
-@author: Di Lorenzo Tech
 """
 from stockfish import Stockfish
 
